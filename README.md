@@ -5,7 +5,7 @@
 ### Why did I make this?
 As a musician, I wanted to try to make more minimalistic cover art for my music. 
 
-I'm also currently started a football/soccer blog with some of my friends, and wanted to be able to change images of gameplay to look unique and gather interest in our articles.
+I've also started a football/soccer blog with some of my friends, and I wanted to be able to generate new images of gameplay to look unique and generate more interest in our articles.
 
 ### What does this do?
 It currently takes in an image file, a number of clusters, and a threshold of change in centroid locations, and performs K-Means clustering on the color values (RGB) of each pixel to generate a new image. 
